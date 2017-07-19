@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="msg1">Introduzca un número</string>
+    <string name="msg2">Introduzca otro número</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">0</string>
+    <string name="suma">Suma</string>
+    <string name="resta">resta</string>
+</resources>
